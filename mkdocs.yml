@@ -1,0 +1,8 @@
+site_name: "Terakoya_documentation"
+site_description: "This documentation will help to understand about backstage and simply run the backstage locally."
+
+nav:
+  - home: index.md
+
+plugins:
+  - techdocs-core
