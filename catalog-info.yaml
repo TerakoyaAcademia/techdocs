@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: techdocs
+  annotations:
+    github.com/project-slug: TerakoyaAcademia/techdocs
+spec:
+  type: other
+  lifecycle: unknown
+  owner: terakoya_academia
