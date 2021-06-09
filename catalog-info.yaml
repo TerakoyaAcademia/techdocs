@@ -4,7 +4,7 @@ metadata:
   name: techdocs
   annotations:
     github.com/project-slug: TerakoyaAcademia/techdocs
-    backstage.io/techdocs-ref: url:https://github.com/TerakoyaAcademia/techdocs
+    backstage.io/techdocs-ref: url:https://github.com/TerakoyaAcademia/techdocs/mkdocs.yml
 spec:
   type: documentation
   lifecycle: experimental
